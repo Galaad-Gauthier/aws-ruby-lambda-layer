@@ -1,9 +1,9 @@
-service: lambda-layers-gem
+service: rails-gems-lambda-layer
 provider:
   name: aws
 
 layers:
-  gemPacks:
+  RailsGems:
     path: layer
     description: A Layer with common ruby gems.
     compatibleRuntimes:

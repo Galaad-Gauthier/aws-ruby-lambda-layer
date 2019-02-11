@@ -1,4 +1,4 @@
-# Ruby Lambda Layer
+# Rails Gems Lambda Layer
 This Repo shows how to include ruby native gems
 
 ## How to use
